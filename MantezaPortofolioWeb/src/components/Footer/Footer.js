@@ -20,7 +20,14 @@ const Footer = () => {
       </LinkTitle>
       <LinkItem href="mailto:manteza14@gmail.com">manteza14@gmail.com</LinkItem>
       </LinkColumn>
-      </LinkList>      
+        
+      <LinkColumn>
+      <LinkTitle>
+      Discord
+      </LinkTitle>
+      <LinkItem>MoukMouk#1060</LinkItem>
+      </LinkColumn> 
+      </LinkList>   
       </FooterWrapper>
   );
 };
